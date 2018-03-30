@@ -1,5 +1,4 @@
-
-# Mobile Flashcards Project
+#Mobile Flashcards Project
 
 ##To run it:
 
@@ -11,23 +10,14 @@ yarn start
 ##Testing
 The application was tested on IOS emulator
 
-
-
-###References:
+##References:
 
 https://github.com/udacity/reactnd-UdaciFitness-complete  
 https://facebook.github.io/react-native/docs/  
 https://medium.com/@drorbiran/the-full-react-native-layout-cheat-sheet-a4147802405c  
- 
-  
-   
-   
-
-
----  
 
   
-#React start Doc
+#React-Native start Readme ...
   
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
