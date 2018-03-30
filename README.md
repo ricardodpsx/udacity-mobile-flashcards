@@ -1,16 +1,16 @@
-#Mobile Flashcards Project
+# Mobile Flashcards Project
 
-##To run it:
+## To run it:
 
 ```
 yarn install
 yarn start
 ```
 
-##Testing
+## Testing
 The application was tested on IOS emulator
 
-##References:
+## References:
 
 https://github.com/udacity/reactnd-UdaciFitness-complete  
 https://facebook.github.io/react-native/docs/  
